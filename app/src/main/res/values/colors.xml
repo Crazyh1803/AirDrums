@@ -1,10 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="bg_dark">#0D0D1A</color>
+    <color name="bg_pad">#1A1A2E</color>
+    <color name="pad_snare">#FF4444</color>
+    <color name="pad_hihat">#00BFFF</color>
+    <color name="pad_tom1">#00FF88</color>
+    <color name="pad_tom2">#FF00AA</color>
+    <color name="pad_crash">#FFD700</color>
+    <color name="pad_ride">#FFFFFF</color>
+    <color name="bass_indicator">#FF4500</color>
+    <color name="text_primary">#E0E0E0</color>
+    <color name="text_secondary">#888888</color>
 </resources>
