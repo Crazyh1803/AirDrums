@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <string name="app_name">Air Drums</string>
-    <string name="bass_sensitivity">BASS SENS</string>
-    <string name="bass_label">BASS</string>
-    <string name="loading">Loading sounds…</string>
-    <string name="place_phone_tip">Place phone on leg for bass drum</string>
-</resources>
